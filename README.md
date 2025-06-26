@@ -21,4 +21,12 @@ Minecraft mod manager for java on windows. The program simply moves files from a
 ----1.21.6 Mod 1.jar
 ----1.21.6 Mod 2.jar
 ----1.21.6 Mod 3.jar
+
+|Minecrafct Options
+-|1.5.2
+----options.txt
+-|1.14.5
+----options.txt
+-|1.21.4
+----options.txt
 ```
