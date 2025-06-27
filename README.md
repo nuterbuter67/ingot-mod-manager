@@ -1,4 +1,4 @@
-![Image](https://github.com/user-attachments/assets/9e168a17-fb2a-4600-a6bd-77dc0a6042f1)
+![Image](https://github.com/user-attachments/assets/3f200ec4-8347-445c-a4a5-3556370d2875)
 # ingot-mod-manager
 Minecraft mod manager for java on windows. The program simply moves files from a mods folder into the .minecraft/mods folder. This makes it easier to manage multiple versions of mods and alternative modpack versions. Also can manage the options.txt file since running older versions can crash unless the options.txt file is deleted. Backups of the options.txt file can be managed with this program.
 
